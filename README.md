@@ -1,7 +1,8 @@
-
 # 👋 Hi, I'm Ishita  
 
 🌐 Passionate Web Developer | 🚀 Curious Learner | 🎨 Creative Problem Solver  
+
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20Ishita's%20World!&fontSize=40&fontAlignY=35)
 
 ---
 
@@ -45,17 +46,18 @@ I’m continuously exploring:
 ---
 
 ## 📊 GitHub Stats
-![Ishita's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)  
+![Ishita's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandhir-ishita&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sandhir-ishita&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sandhir-ishita&layout=compact&theme=radical)  
 
 ---
 
 ## 📫 Connect With Me
-- GitHub: [Your GitHub Profile Link]  
-- LinkedIn: [Your LinkedIn Profile Link]  
-- Email: [Your Email Address]  
+- GitHub: [sandhir-ishita](https://github.com/sandhir-ishita)  
+- LinkedIn: [Ishita Sandhir](https://www.linkedin.com/in/ishita-sandhir12/)  
+- Email: **ishitasandhir11@gmail.com**  
 
 ---
 
 ⭐️ *“Persistence and curiosity fuel my coding journey.”*  
+
