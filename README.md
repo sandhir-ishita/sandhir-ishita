@@ -1,39 +1,31 @@
-# 👋 Hi, I'm Ishita  
+# 🌸 Hi, I'm Ishita  
 
 🌐 Passionate Web Developer | 🚀 Curious Learner | 🎨 Creative Problem Solver  
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20Ishita's%20World!&fontSize=40&fontAlignY=35)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Welcome%20to%20Ishita's%20World!&fontSize=40&fontAlignY=35)
 
 ---
 
-## 🔧 Skills & Tools
+## 🎨 Skills & Tools  
 
-<p align="center">
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50"/>
-  
-  <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50"/>
-  
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/>
-</p>
-
+![HTML5](https://img.shields.io/badge/HTML5-ffb3ba?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-baffc9?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ffffba?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-b3ffff?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-c9c9ff?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-ffd6a5?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-ffb3ba?style=for-the-badge&logo=express&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-baffc9?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-ffffba?style=for-the-badge&logo=git&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-b3ffff?style=for-the-badge&logo=github&logoColor=black)
+![VSCode](https://img.shields.io/badge/VSCode-c9c9ff?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## 📚 Current Focus
-- Building interactive web apps (drum kits, color-changing backgrounds)  
-- Expanding knowledge in computer graphics (color models, shading, transformations)  
-- Backend development with modular structure and professional documentation  
+✨ Building interactive web apps (drum kits, color-changing backgrounds)  
+🌸 Exploring computer graphics (color models, shading, transformations)  
+🌿 Backend development with modular structure and clean documentation  
 
 ---
 
@@ -58,16 +50,16 @@ I’m continuously exploring:
 ---
 
 ## 📊 GitHub Stats
-![Ishita's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandhir-ishita&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sandhir-ishita&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sandhir-ishita&layout=compact&theme=radical)  
+![Ishita's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandhir-ishita&show_icons=true&theme=rose_pine)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sandhir-ishita&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sandhir-ishita&layout=compact&theme=calm)  
 
 ---
 
 ## 📫 Connect With Me
-- GitHub: [sandhir-ishita](https://github.com/sandhir-ishita)  
-- LinkedIn: [Ishita Sandhir](https://www.linkedin.com/in/ishita-sandhir12/)  
-- Email: **ishitasandhir11@gmail.com**  
+- 🌐 GitHub: [sandhir-ishita](https://github.com/sandhir-ishita)  
+- 💼 LinkedIn: [Ishita Sandhir](https://www.linkedin.com/in/ishita-sandhir12/)  
+- 📧 Email: **ishitasandhir11@gmail.com**  
 
 ---
 
